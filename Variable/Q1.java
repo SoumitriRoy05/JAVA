@@ -1,3 +1,5 @@
+// WRITE A JAVA PROGRAM TO PRINT 10
+
 // package Variable;
 
 public class Q1 {
