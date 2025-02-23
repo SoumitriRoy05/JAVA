@@ -1,3 +1,4 @@
+// WRITE A PROGRAM IN JAVA TO PRINT NAME,GENDER,AGE,HEIGHT
 public class Q6 {
     public static void main(String[] args) {
         int age=20;
