@@ -1,3 +1,4 @@
+// WRITE A PROGRAM IN JAVA TO PRINT DIFFERENT ARITHMETIC OPERATIONS
 public class Q8 {
    public static void main(String[] args) {
     int a=5,b=2;
